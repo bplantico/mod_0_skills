@@ -1,0 +1,22 @@
+Parent Class:
+  Person
+
+Sub Class:
+  Employee
+
+Attributes:
+  - Front of house (boolean)
+  - Back of house (boolean)
+  - Manager? (boolean)
+  - Experience (float)
+  - On time? (boolean)
+  - On clock? (boolean)
+  - Salary/wage (float)
+  - Hire date (date)
+
+Methods:
+  - Promote
+  - Hire
+  - Fire
+  - Praise
+  - IncreaseWage
