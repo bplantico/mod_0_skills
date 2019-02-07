@@ -1,0 +1,24 @@
+Parent Class:
+  Person
+
+Sub Class:
+  Customer
+
+Attributes:
+  - Age (int)
+  - Hungry (boolean)
+  - Thirsty (boolean)
+  - HungerRating (float)
+  - ThirstRating (float)
+  - HasMoneyToPay (boolean)
+  - Seated?
+  - Served?
+  - Date of last visit (date)
+
+Methods:
+  - SeatCustomer
+  - ServeCustomer
+  - CheckCustomerID
+  - RefillCustomerDrink
+  - ThankCustomer
+  
