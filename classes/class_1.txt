@@ -1,0 +1,23 @@
+Class:
+  MenuItem
+
+Attributes:
+    - Restaurant cost
+    - Markup/profit
+    - Price
+    - Portion size/weight
+    - Protein type
+    - Hot/Cold
+    - Gluten free?
+    - Allergy info
+    - Sides?
+    - Special?
+    - Sale?
+
+Methods:
+  - CookItem
+  - PutOnPlate
+  - Garnish
+  - Eat
+  - Return to kitchen
+  - Order more
