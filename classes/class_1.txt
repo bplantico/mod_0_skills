@@ -2,17 +2,18 @@ Class:
   MenuItem
 
 Attributes:
-    - Restaurant cost
-    - Markup/profit
-    - Price
-    - Portion size/weight
-    - Protein type
-    - Hot/Cold
-    - Gluten free?
-    - Allergy info
-    - Sides?
-    - Special?
-    - Sale?
+    - ItemName (string)
+    - Restaurant cost (float)
+    - Markup/profit (float)
+    - Price (float)
+    - Portion size/weight (float)
+    - Protein type (string)
+    - Hot/Cold (string)
+    - Gluten free? (boolean)
+    - Allergy info (string)
+    - Sides? (string)
+    - Special? (boolean)
+    - Sale? (boolean)
 
 Methods:
   - CookItem

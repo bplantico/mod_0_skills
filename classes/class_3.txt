@@ -11,8 +11,9 @@ Attributes:
   - HungerRating (float)
   - ThirstRating (float)
   - HasMoneyToPay (boolean)
-  - Seated?
-  - Served?
+  - HasReservation (boolean)
+  - Seated? (boolean)
+  - Served? (boolean)
   - Date of last visit (date)
 
 Methods:
@@ -21,4 +22,3 @@ Methods:
   - CheckCustomerID
   - RefillCustomerDrink
   - ThankCustomer
-  
